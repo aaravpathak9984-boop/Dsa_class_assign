@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/aaravpatahak/Documents/compete_coding/advance_topics/june_classes/assignments_dsa",
+      "program": "/Users/aaravpatahak/Documents/compete_coding/advance_topics/june_classes/assignments_dsa/build/Debug/outDebug"
+    }
+  ]
+}
