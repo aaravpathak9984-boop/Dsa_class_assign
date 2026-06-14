@@ -1,0 +1,2 @@
+Original List: 10->20->30->NULL
+Reversed List: 30->20->10->NULL
